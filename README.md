@@ -1,2 +1,2 @@
-# Lyyn-c.github.io
+# Lyyn-s.github.io
 website dev practice
